@@ -7,7 +7,7 @@ metaLinks:
     - https://app.gitbook.com/s/BxN1F1nhGZEAcZR0HuGO/
 ---
 
-# 😺 H24 • Journalisme de données II
+# 😎 H26 • Journalisme de données II
 
 Pourrait également s'appeler _Programmation à des fins journalistiques_.
 
