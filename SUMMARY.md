@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😺 H24 • Journalisme de données II](README.md)
+* [😎 H26 • Journalisme de données II](README.md)
 
 ## Intro
 
