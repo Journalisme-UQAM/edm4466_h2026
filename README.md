@@ -22,4 +22,4 @@ Le féminin dans ce plan de cours sous-entend la présence du mot «personne» d
 
 ***
 
-_Image de couverture générée par Midjourney avec la commande suivante : «funky complex intricate colourful steampunk pokemon medieval journalism computing tools and machines»._
+_Image de couverture générée par Gemini (Nano Banana) avec la commande suivante : «Codex maya de scribes analysant des données sur leurs terminaux, dans le style de The Matrix»._
