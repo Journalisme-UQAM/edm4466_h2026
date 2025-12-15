@@ -1,6 +1,5 @@
 ---
-cover: >-
-  .gitbook/assets/jhroy_colourful_programming_syntax_--ar_437100_--v_5.2_35998c74-9d37-4524-936e-ddcf05e69909.png
+cover: .gitbook/assets/2026-1.png
 coverY: 0
 metaLinks: {}
 ---
@@ -9,7 +8,7 @@ metaLinks: {}
 
 Pourrait également s'appeler _Programmation à des fins journalistiques_.
 
-<table><thead><tr><th width="264.7099910230303">Clé</th><th>Valeur</th></tr></thead><tbody><tr><td>Période</td><td>Les jeudis matin (9h30 à 12h30)</td></tr><tr><td>Dates</td><td>Du 15 janvier au 23 avril 2026</td></tr><tr><td>Local</td><td>J-4315</td></tr><tr><td>Salle Zoom (au besoin)</td><td><a href="https://bit.ly/zoomEDM4466-h2026">https://bit.ly/zoomEDM4466-h2026</a></td></tr><tr><td>Enseignant</td><td><a href="intro/enseignant.md">Jean-Hugues Roy</a></td></tr><tr><td>Plan de cours dynamique</td><td><a href="https://journalisme-uqam.gitbook.io/edm4466-h2024/">https://journalisme-uqam.gitbook.io/edm4466-h2026/</a></td></tr><tr><td>Répertoire Google Drive pour fichiers</td><td><a href="https://bit.ly/fichColab2026">https://bit.ly/fichColab2026</a></td></tr><tr><td>Transparence (pour voir tous les changements apportés au plan de cours)</td><td><a href="https://github.com/Journalisme-UQAM/edm4466_h2026">https://github.com/Journalisme-UQAM/edm4466_h2026</a></td></tr></tbody></table>
+<table><thead><tr><th width="264.7099910230303">Clé</th><th>Valeur</th></tr></thead><tbody><tr><td>Période</td><td>Les jeudis matin (9h30 à 12h30)</td></tr><tr><td>Dates</td><td>Du 15 janvier au 23 avril 2026</td></tr><tr><td>Local</td><td>J-4315</td></tr><tr><td>Salle Zoom (au besoin)</td><td><a href="https://bit.ly/zoomEDM4466-h2026">https://bit.ly/zoomEDM4466-h2026</a></td></tr><tr><td>Enseignant</td><td><a href="intro/enseignant.md">Jean-Hugues Roy</a></td></tr><tr><td>Plan de cours dynamique</td><td><a href="https://journalisme-uqam.gitbook.io/edm4466-hiver-2026/">https://journalisme-uqam.gitbook.io/edm4466-hiver-2026/</a></td></tr><tr><td>Répertoire Google Drive pour fichiers</td><td><a href="https://bit.ly/fichColab2026">https://bit.ly/fichColab2026</a></td></tr><tr><td>Transparence (pour voir tous les changements apportés au plan de cours)</td><td><a href="https://github.com/Journalisme-UQAM/edm4466_h2026">https://github.com/Journalisme-UQAM/edm4466_h2026</a></td></tr></tbody></table>
 
 _**Remarque** : avoir son propre ordinateur portable est plutôt incontournable pour suivre ce cours._
 
