@@ -11,7 +11,7 @@ metaLinks:
 
 En effet, tous les outils d'IA générative permettent de générer du code en python. C'est ainsi que la question, au fond, est celle-ci : **à quoi sert ce cours**?
 
-Comme l'écrit [Ravy Por dans Urbania](https://urbania.ca/article/trois-ans-anniversaire-chatgpt-ia-generative-humains-augmentes), il importe de **rester auteur, autrice** : « Vous relisez un texte généré et ne le comprenez pas vraiment? Red flag. Si vous ne pouvez pas expliquer ce que "vous" avez écrit, vous n’en êtes pas l’auteur. »
+Comme l'écrit [Ravy Por dans *Urbania*](https://urbania.ca/article/trois-ans-anniversaire-chatgpt-ia-generative-humains-augmentes), il importe de **rester auteur, autrice** : « Vous relisez un texte généré et ne le comprenez pas vraiment? *Red flag*. Si vous ne pouvez pas expliquer ce que "vous" avez écrit, vous n’en êtes pas l’auteur. »
 
 Ce qu'elle écrit, en somme, c'est que si vous ne comprenez pas que ce la machine génère, vous trichez.
 
