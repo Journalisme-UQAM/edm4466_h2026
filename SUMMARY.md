@@ -21,13 +21,13 @@
 * [💎 06. Python 5 (API cachées)](contenu/06.python-5.md)
 * [07. IA générative 1](contenu/07.ia-generative-1.md)
 * [🏖️ 08. Relâche](contenu/08.relache.md)
-* [📜 09.TAL 2 + Brainstorm](contenu/07.tal-2-+-brainstorm.md)
-* [🐼 10.Pandas 1 + IA](contenu/10.pandas-1.md)
-* [🐼 11.Pandas 2](contenu/11.pandas-2.md)
-* [💠 12.Tutorat 1](contenu/12.tuto-1.md)
-* [🖖 13.Tutorat 2](contenu/13.tuto-2.md)
-* [🙏 14.Tutorat 3 + Installfest](contenu/14.tuto-3-installfest.md)
-* [😎 15.Présentations](contenu/15.presentations.md)
+* [09. IA générative 2](contenu/09.ia-generative-2.md)
+* [🐼 10. Démo 1](contenu/10.demo-1.md)
+* [📚 11. Démo 2](contenu/11.demo-2.md)
+* [💠 12. Tutorat 1](contenu/12.tuto-1.md)
+* [🖖 13. Tutorat 2](contenu/13.tuto-2.md)
+* [🙏 14. Tutorat 3](contenu/14.tuto-3.md)
+* [😎 15. Présentations](contenu/15.presentations.md)
 
 ## Travaux
 
