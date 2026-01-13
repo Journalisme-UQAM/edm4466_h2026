@@ -10,10 +10,10 @@ metaLinks:
 
 | Élément                 | Points                                     |
 | ----------------------- | ------------------------------------------ |
-| Devoir #1                | 5                                          |
-| Devoir #2               | 10                                         |
-| Devoir #3               | 10                                         |
-| Devoir #4           | 10                                          |
+| Devoir #1 (markdown)                | 5                                          |
+| Devoir #2 (python de base)               | 10                                         |
+| Devoir #3 (moissonnage)               | 10                                         |
+| Devoir #4 (ia générative)          | 15                                          |
 | Démos et tutos             | 15                                         |
 | Projet final            | 30                                         |
 | _Making-of_             | 10                                         |
