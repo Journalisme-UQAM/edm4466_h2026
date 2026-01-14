@@ -31,7 +31,7 @@ Pour ce qui est du harcèlement psychologique, la [Politique #42](https://instan
 
 Pour plus d’information :
 
-[**http://www.harcelement.uqam.ca/**](http://www.harcelement.uqam.ca/)
+{% embed url="http://www.harcelement.uqam.ca/" %}
 
 Pour rencontrer quelqu'un ou effectuer un signalement, n'hésitez pas et téléphonez :
 

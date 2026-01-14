@@ -37,7 +37,7 @@
 
 ## Politiques et règlements
 
+* [😍 Soutien à la réussite](politiques-et-reglements/politique-44.md)
 * [🙅 Politiques 16 et 42](politiques-et-reglements/politiques-16-et-42.md)
 * [🚫 Règlement 18](politiques-et-reglements/reglement-18.md)
-* [😍 Politique 44](politiques-et-reglements/politique-44.md)
-* [🎒 Politique 23](politiques-et-reglements/politique-23.md)
+* [🎒 Évaluation des enseignements](politiques-et-reglements/politique-23.md)
