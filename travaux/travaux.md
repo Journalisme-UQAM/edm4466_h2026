@@ -63,7 +63,7 @@ J'attends de votre part une proposition de travail final qui doit décrire votre
 
 À remettre en format PDF dans Moodle.
 
-Tombée : 23h59, le lundi 23 mars 2026.
+Tombée : 23h59, le lundi 30 mars 2026.
 
 ### Tutorat (10 points)
 
