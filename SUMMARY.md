@@ -23,7 +23,7 @@
 * [🏖️ 08. Relâche](contenu/08.relache.md)
 * [09. IA générative 2](contenu/09.ia-generative-2.md)
 * [📚 10. Exercice en classe](contenu/10.exercice.md)
-* [🐼 11. Démo](contenu/11.demo.md)
+* [🐼 11. Démo / Brainstorm](contenu/11.demo-brainstorm.md)
 * [💠 12. Tutorat 1](contenu/12.tuto-1.md)
 * [🖖 13. Tutorat 2](contenu/13.tuto-2.md)
 * [🙏 14. Tutorat 3](contenu/14.tuto-3.md)

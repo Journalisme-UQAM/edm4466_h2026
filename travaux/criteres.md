@@ -6,17 +6,17 @@ metaLinks:
 
 # ⚠️ Critères
 
-### Critères d'évaluation
+## Critères d'évaluation
 
 Comme la matière de ce cours est particulièrement difficile, voire totalement étrangère à tout ce que vous avez fait jusqu'à maintenant dans votre cursus, je suis assez conciliant en ce qui a trait aux notes.
 
 Comme dans mes autres cours, ce qui compte à mes yeux est l'effort.
 
-### Pour le brainstorm, le tutorat et les présentations
+### Brainstorm, le tutorat et les présentations
 
 Faites-moi la démonstration que vous avez fait des recherches avant le cours, que vous avez réfléchi à un sujet, que vous avez progressé de votre côté et vous aurez tous les points. Me contacter entre les cours avec des questions précises est une autre excellente façon de démontrer votre préparation.
 
-### Pour les carnets
+### Carnets (devoirs et exercices en classe)
 
 Vous allez me remettre d'abord cinq carnets en autant de devoirs (ou travaux pratiques). Je tenterai de les faire fonctionner « localement », sur mon ordinateur.
 
