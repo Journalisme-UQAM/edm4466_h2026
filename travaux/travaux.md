@@ -10,14 +10,14 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Liens directs vers les devoirs:
 
-* [Devoir 1](travaux.md#devoir-1)
+* [Devoir 1](travaux.md#md) (markdown; en classe)
 * [Devoir 2](travaux.md#devoir-2)
-* [Identifier un site web](travaux.md#site)
-* [Moissonage](travaux.md#moisson)
-* [Devoir TAL](travaux.md#devoir-3)
-* [Travail pratique pandas](travaux.md#devoir-4)
-* [Tutorat](travaux.md#tutorat-5-points)
-* [Travail final](travaux.md#projet-final-25-points)
+* [Devoir 3](travaux.md#devoir-2)
+* [Devoir 4](travaux.md#site)
+* [Exercice en classe](travaux.md#moisson)
+* [Votre proposition](travaux.md#devoir-3)
+* [Tutorat](travaux.md#tutorat-10-points)
+* [Travail final](travaux.md#projet-final-25-points) et [_making-of_](travaux.md#making-of-10-points)
 
 ### Devoir 1 - Markdown (5 points) <a href="#md" id="md"></a>
 
