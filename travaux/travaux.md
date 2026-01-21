@@ -23,7 +23,21 @@ Liens directs vers les devoirs:
 
 Il suffit d'exporter votre carnet dans lequel vous avez rédigé du markdown en classe et de le déposer dans Moodle.
 
-Tombée : 12h30 à la fin de la séance 02.
+Voici des instructions plus détaillées. Rédigez un carnet ne contenant que deux cellules (ou blocs) de texte.
+
+Dans la première cellule:
+
+* Commencez avec une entête de niveau 1 (h1) pour donner un titre à votre carnet, titre de votre choix (« Mon premier carnet », si vous manquez d'inspiration)
+* Suivez avec un texte dans lequel vous vous présentez brièvement. Votre nom doit être en **gras**.
+* Faites une liste non ordonnée (avec des puces) avec au moins trois sujets que vous préférez couvrir dans votre travail comme journaliste, ou qui vous interpellent plus particulièrement.
+
+Dans la seconde cellule:
+
+* Commencez avec une entête de niveau 2 avec l'un des trois sujets que vous avez inclus dans votre liste de la première cellule.
+* Suivez avec un texte dans lequel vous racontez brièvement un reportage que vous avez fait ou que vous avez lu sur le sujet en question. Donnez la date où ce reportage a été diffusé ou publié. Donnez le nom du média en _italique_ (même s'il ne s'agit pas d'un périodique). Ajoutez quelque part dans votre texte un lien vers le reportage en question. Ne faites pas juste coller l'URL. Faites un lien.
+* Terminez ce bloc avec une image qui illustre le reportage ou le sujet. Ne téléversez pas une image dans votre carnet. Faites un lien vers le fichier de l'image en question.
+
+Tombée : 12h30 à la fin de la séance 02. Téléchargez votre carnet en **format .ipynb** sur votre ordinateur. Remettez-le dans Moodle en rebaptisant **mardown.ipynb**, par exemple.
 
 ### Devoir 2 - À venir (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
