@@ -37,7 +37,7 @@ Dans la seconde cellule:
 * Suivez avec un texte dans lequel vous racontez brièvement un reportage que vous avez fait ou que vous avez lu sur le sujet en question. Donnez la date où ce reportage a été diffusé ou publié. Donnez le nom du média en _italique_ (même s'il ne s'agit pas d'un périodique). Ajoutez quelque part dans votre texte un lien vers le reportage en question. Ne faites pas juste coller l'URL. Faites un lien.
 * Terminez ce bloc avec une image qui illustre le reportage ou le sujet. Ne téléversez pas une image dans votre carnet. Faites un lien vers le fichier de l'image en question.
 
-Tombée : 12h30 à la fin de la séance 02. Téléchargez votre carnet en **format .ipynb** sur votre ordinateur. Remettez-le dans Moodle en rebaptisant **mardown.ipynb**, par exemple.
+Tombée : 12h30 à la fin de la séance 02. Téléchargez votre carnet en **format .ipynb** sur votre ordinateur. Remettez-le dans Moodle en rebaptisant **mardown.ipynb**, par exemple. [<mark style="color:$info;">**🚨 PAS DE FICHIER HTML !!! 🚨**</mark>](#user-content-fn-1)[^1]
 
 ### Devoir 2 - À venir (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
@@ -115,3 +115,5 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
 Votre document PDF doit être accompagné, s'il y a lieu, de tous les carnets que vous avez écrits, et/ou de tous les autres fichiers pertinents **(.py, .csv, .ods, .xls, .sql ou autres)** que vous avez récoltés ou dont vous vous êtes servis.
 
 Vous mettez tout cela dans Moudeul avant le début du dernier cours (9h30, le 23 avril 2026) _por favor_.
+
+[^1]: 
