@@ -11,7 +11,7 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 Liens directs vers les devoirs:
 
 * [Devoir 1](travaux.md#md) (markdown; en classe)
-* [Devoir 2](travaux.md#devoir-2)
+* [Devoir 2](travaux.md#devoir-2) (python 1 - rudiments)
 * [Devoir 3](travaux.md#devoir-2)
 * [Devoir 4](travaux.md#site)
 * [Exercice en classe](travaux.md#moisson)
@@ -39,9 +39,26 @@ Dans la seconde cellule:
 
 Tombée : 12h30 à la fin de la séance 02. Téléchargez votre carnet en **format .ipynb** sur votre ordinateur. Remettez-le dans Moodle en rebaptisant **mardown.ipynb**, par exemple. [<mark style="color:$info;">**🚨 PAS DE FICHIER HTML !!! 🚨**</mark>](#user-content-fn-1)[^1]
 
-### Devoir 2 - À venir (10 points) <a href="#devoir-1" id="devoir-1"></a>
+### Devoir 2 - Fraudeurs fictifs de faible wattage (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
-Description à venir
+#### Cas fictif.
+
+Une source vous a parlé d'un groupe de fraudeurs qui utilise le réseau social [_Kick_](https://kick.com/). Cette source vous a dit que les membres du groupe utilisent tous (c'est leur manière de se reconnaître) des noms d'utilisateur de **cinq lettres** qui ont la **même structure** :
+
+* `consonne, voyelle, consonne, voyelle, consonne`. En lettres minuscules.
+
+Ça donne « `babab` », par exemple. Ou, à l'autre extrémité de l'alphabet : « `zyzyz` ». Avec ces cinq malheureuses lettre, il y a quand même 288 000 combinaisons possibles, ce qui contribue à leur sentiment d'invulnérabilité aussi futile qu'il leur est fatal.
+
+Écrivez un script qui génère tous les noms d'utilisateurs possibles et qui, pour chaque mot de passe possible, génère l'URL de la page de cet utilisateur sur Kick. Voici la mienne, à titre d'exemple : [https://kick.com/jhroy](https://kick.com/jhroy).
+
+Quelques consignes, qui sont à un devoir ce que la sauce Sriracha est à une patate frite:
+
+* Commencez avec une variable de type **texte** comprenant toutes les lettres de l'alphabet. Voici son contenu : "abcdefghijklmnopqrstuvwxyz". À vous de lui créer un contenant.
+* Les voyelles sont dans une variable de type **liste** dont voici le contenu: \["a", "e", "i", "o", "u", "y"].
+* Créez une autre liste avec les consonnes.
+* N'utilisez que des boucles. Des tutoriels ou, dieu nous en préserve, des outils d'IA générative vont vous suggérer différents modules en python. _Vade retro_ :hand\_splayed:.
+* Utilisez des «f-strings» pour générer vos noms d'utilisateurs et les url.
+* À chaque itération de la boucle, indiquez à quelle combinaison on est rendu à l'aide d'un compteur, de telle sorte qu'à la fin, c'est le nombre 288 000 qui s'affiche avant l'URL.
 
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
