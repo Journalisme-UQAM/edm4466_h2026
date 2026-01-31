@@ -60,6 +60,8 @@ Quelques consignes, qui sont à un devoir ce que la sauce Sriracha est à une pa
 * Utilisez des «f-strings» pour générer vos noms d'utilisateurs et les url.
 * À chaque itération de la boucle, indiquez à quelle combinaison on est rendu à l'aide d'un compteur, de telle sorte qu'à la fin, c'est le nombre 288 000 qui s'affiche avant l'URL.
 
+La notion de compteur n'a pas été vue en classe, mais elle utilise un opérateur que nous avons vu à la semaine 1, (`+=`). Et je vous donne un exemple dans le carnet que j'ai mis en ligne pour la semaine 2 dans la [section tutoriels](../contenu/00.tutoriels.md#python).
+
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
 Remettez votre carnet (**devoir2.ipynb**) dans Moodle
