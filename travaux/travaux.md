@@ -47,7 +47,7 @@ Une source vous a parlé d'un groupe de fraudeurs qui utilise le réseau social 
 
 * `consonne, voyelle, consonne, voyelle, consonne`. En lettres minuscules.
 
-Ça donne « `babab` », par exemple. Ou, à l'autre extrémité de l'alphabet : « `zyzyz` ». Avec ces cinq malheureuses lettres, il y a quand même 288 000 combinaisons possibles, ce qui contribue à leur sentiment d'invulnérabilité aussi futile qu'il leur est fatal.
+Ça donne « `babab` », par exemple. Ou, à l'autre extrémité de l'alphabet : « `zyzyz` ». Avec ces cinq malheureuses lettres[^2], il y a quand même 288 000 combinaisons possibles, ce qui contribue à leur sentiment d'invulnérabilité aussi futile qu'il leur est fatal.
 
 Écrivez un script qui génère tous les noms d'utilisateurs possibles et qui, pour chaque mot de passe possible, génère l'URL de la page de cet utilisateur sur Kick. Voici la mienne, à titre d'exemple : [https://kick.com/jhroy](https://kick.com/jhroy).
 
@@ -69,6 +69,12 @@ Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur vo
 Remettez votre carnet (**devoir2.ipynb**) dans Moodle
 
 Tombée : 23h59, le lundi 2 février 2026.
+
+#### Corrigé
+
+[Par ici les explications complètes et **commentées**](https://colab.research.google.com/drive/14P3dlgjby4D6ktaXitsWXyu1GbeyTrqB?usp=sharing)!
+
+À noter qu'une première version de la description de ce devoir comportait une erreur dans le mot `lettre` qui aurait dû se trouver au pluriel.
 
 ### Devoir 3 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
@@ -138,3 +144,5 @@ Votre document PDF doit être accompagné, s'il y a lieu, de tous les carnets qu
 Vous mettez tout cela dans Moudeul avant le début du dernier cours (9h30, le 23 avril 2026) _por favor_.
 
 [^1]: 
+
+[^2]: Ce mot était initialement et incorrectement écrit au singulier.
