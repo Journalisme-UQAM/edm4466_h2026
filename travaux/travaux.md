@@ -47,7 +47,7 @@ Une source vous a parlé d'un groupe de fraudeurs qui utilise le réseau social 
 
 * `consonne, voyelle, consonne, voyelle, consonne`. En lettres minuscules.
 
-Ça donne « `babab` », par exemple. Ou, à l'autre extrémité de l'alphabet : « `zyzyz` ». Avec ces cinq malheureuses lettre, il y a quand même 288 000 combinaisons possibles, ce qui contribue à leur sentiment d'invulnérabilité aussi futile qu'il leur est fatal.
+Ça donne « `babab` », par exemple. Ou, à l'autre extrémité de l'alphabet : « `zyzyz` ». Avec ces cinq malheureuses lettres, il y a quand même 288 000 combinaisons possibles, ce qui contribue à leur sentiment d'invulnérabilité aussi futile qu'il leur est fatal.
 
 Écrivez un script qui génère tous les noms d'utilisateurs possibles et qui, pour chaque mot de passe possible, génère l'URL de la page de cet utilisateur sur Kick. Voici la mienne, à titre d'exemple : [https://kick.com/jhroy](https://kick.com/jhroy).
 
