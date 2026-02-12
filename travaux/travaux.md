@@ -12,7 +12,7 @@ Liens directs vers les devoirs:
 
 * [Devoir 1](travaux.md#md) (markdown; en classe)
 * [Devoir 2](travaux.md#devoir-2) (python 1 - rudiments)
-* [Devoir 3](travaux.md#devoir-2)
+* [Devoir 3](travaux.md#devoir-2) (python 2 - moisson)
 * [Devoir 4](travaux.md#site)
 * [Exercice en classe](travaux.md#moisson)
 * [Votre proposition](travaux.md#devoir-3)
@@ -76,13 +76,29 @@ Tombée : 23h59, le lundi 2 février 2026.
 
 À noter qu'une première version de la description de ce devoir comportait une erreur dans le mot `lettre` qui aurait dû se trouver au pluriel.
 
-### Devoir 3 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 3 - Moisson (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
-Description à venir
+Moissonnez le plus d'articles possibles (jusqu'à 100) du ou de la journaliste associée à votre nom dans [le tableau suivant](https://docs.google.com/spreadsheets/d/1wWkLnh58rudfE99x9yyOA5O6EDK9LEQ-yWQIIWfp8BQ/edit?usp=sharing).
 
-Vous me remettez votre carnet par Moodle, comme d'habitude (**devoir3.ipynb**)
+Enregistrez le résultat de votre moissonnage dans un fichier CSV.
+
+Chaque ligne de ce fichier CSV contiendra les informations suivantes sur chaque article (pas nécessairement dans cet ordre):
+
+* Signataire(s) de l'article
+* Titre de l'article
+* Date de publication de l'article
+* URL complet de l'article
+* Texte complet de l'article
+
+Il n'est pas interdit d'ajouter d'autres informations si cela est pertinent.
+
+Il n'est pas interdit non plus de changer de journaliste, voire de changer de site complètement. Faites-moi signe par courriel si c'est ce que vous souhaitez.
+
+Vous me remettez dans Moodle votre carnet (**devoir3.ipynb**) ET le fichier CSV qu'il génère (**articles\_journaliste.csv**).
 
 Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
+
+N'oubliez pas de **commenter votre démarche**. Je serai plus sévère sur ce critère.
 
 Tombée : 23h59, le lundi 16 février 2026.
 
