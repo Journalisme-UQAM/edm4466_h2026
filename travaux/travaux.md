@@ -86,13 +86,11 @@ Chaque ligne de ce fichier CSV contiendra les informations suivantes sur chaque 
 
 * Signataire(s) de l'article
 * Titre de l'article
-* Date de publication de l'article
 * URL complet de l'article
-* Texte complet de l'article
 
-Il n'est pas interdit d'ajouter d'autres informations si cela est pertinent.
+Il n'est pas interdit d'ajouter d'autres informations si vous le souhaitez (comme le texte complet de l'article, par exemlple).
 
-Il n'est pas interdit non plus de changer de journaliste, voire de changer de site complètement. Faites-moi signe par courriel si c'est ce que vous souhaitez.
+Il n'est pas interdit non plus de changer de journaliste, voire de changer complètement de site à moissonner. Faites-moi signe [par courriel](mailto:roy.jean-hugues@uqam.ca) si c'est ce que vous souhaitez.
 
 Vous me remettez dans Moodle votre carnet (**devoir3.ipynb**) ET le fichier CSV qu'il génère (**articles\_journaliste.csv**).
 
