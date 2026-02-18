@@ -100,6 +100,10 @@ N'oubliez pas de **commenter votre démarche**. Je serai plus sévère sur ce cr
 
 Tombée : 23h59, le lundi 16 février 2026.
 
+#### Corrigé
+
+[Voici un carnet décrivant les façons de moissonner **RDS,** _**Le Journal de Montréal**_, _**La Presse**_, **Radio-Canada** et même les **Coops**!](https://colab.research.google.com/drive/1aM6KIe7jaFHOORlgBi2w_yB76iatMwVH?usp=sharing)
+
 ### Devoir 4 - À venir (10 points) <a href="#site" id="site"></a>
 
 Description à venir
