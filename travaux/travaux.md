@@ -104,6 +104,35 @@ Tombée : 23h59, le lundi 16 février 2026.
 
 [Voici un carnet décrivant les façons de moissonner **RDS,** _**Le Journal de Montréal**_, _**La Presse**_, **Radio-Canada** et même les **Coops**!](https://colab.research.google.com/drive/1aM6KIe7jaFHOORlgBi2w_yB76iatMwVH?usp=sharing)
 
+### Exercice boni - NHL (5 points)
+
+Rédigez un carnet, suffisamment commenté, qui vous permet de savoir, à la fin:
+
+* quelle est l'équipe dont le gardien a reçu le plus grand nombre de tirs au but lors d'une partie en saison régulière de la Ligue nationale de hockey.
+* Votre carnet doit aussi nous dire quelle équipe a bombardé à ce point le pauvre gardien,
+* combien de tirs ils lui ont envoyé et
+* à quelle date.
+
+Utilisez un fichier CSV que j'ai placé dans le Drive du cours. Son nom est `toutesParties_1917-2025.csv`.
+
+Dans ce fichier, chaque ligne est une partie depuis 1917 jusqu'en 2025.
+
+Les variables importantes sont:
+
+* `idPartie` (chaque partie a un numéro d'idPartie unique)
+* `type` (pour les parties en saison régulière, cette valeur est **2**)
+* `saison` (ne prenez que les parties à partir de la saison **19551956**).
+
+Utilisez l'API de la LNH ([documentation ici](https://github.com/Zmalski/NHL-API-Reference)). Plus précisément, son _endpoint « landing »_.
+
+Pour chaque partie, utilisez la variable `idPartie` pour obtenir plus de détails sur chaque partie. Voici un exemple pour [la dernière partie de 2025](https://api-web.nhle.com/v1/gamecenter/2025020631/landing).&#x20;
+
+Dans les résultats de l'API, la variable qui contient les tirs au but, **pour chaque équipe**, s'appelle `sog`, pour shots on goal.
+
+Cet exercice est **facultatif**. Je demeure disponible pour [des questions](mailto:roy.jean-hugues@uqam.ca). Remise dans Moodle de votre carnet .ipynb.
+
+Tombée : 23h59, le lundi 23 février 2026.
+
 ### Devoir 4 - À venir (10 points) <a href="#site" id="site"></a>
 
 Description à venir
