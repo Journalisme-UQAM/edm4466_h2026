@@ -13,6 +13,7 @@ Liens directs vers les devoirs:
 * [Devoir 1](travaux.md#md) (markdown; en classe)
 * [Devoir 2](travaux.md#devoir-2) (python 1 - rudiments)
 * [Devoir 3](travaux.md#devoir-2) (python 2 - moisson)
+* [Exercice boni](travaux.md#exercice-boni-lnh-5-points) (🏒)
 * [Devoir 4](travaux.md#site)
 * [Exercice en classe](travaux.md#moisson)
 * [Votre proposition](travaux.md#devoir-3)
@@ -104,7 +105,7 @@ Tombée : 23h59, le lundi 16 février 2026.
 
 [Voici un carnet décrivant les façons de moissonner **RDS,** _**Le Journal de Montréal**_, _**La Presse**_, **Radio-Canada** et même les **Coops**!](https://colab.research.google.com/drive/1aM6KIe7jaFHOORlgBi2w_yB76iatMwVH?usp=sharing)
 
-### Exercice boni - NHL (5 points)
+### Exercice boni - LNH (5 points)
 
 Rédigez un carnet, suffisamment commenté, qui vous permet de savoir, à la fin:
 
