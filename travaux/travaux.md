@@ -159,9 +159,9 @@ Dans la page des résultats, trouvez l'API non documentée de Clic Santé (indic
 * Combien de disponibilités y a-t-il pour ce service dans les 7 prochains jours (variable `t07`)?
 * Combien de disponibilités y a-t-il pour ce service dans les jours suivants (variable `ta7`)?
 * Le numéro d'établissement de ce lieu.
-* Le type de cet établissement (clinique privée, pharmacie ou établissement de santé \[public]?) (indice: c'est le numéro d'établissement qui vous permet de le trouver).
+* Le type de cet établissement (clinique privée, pharmacie ou établissement de santé \[public]?) (indice: c'est le numéro d'établissement qui vous permet de le trouver et la façon d'y arriver ressemble à ce qu'on a fait pour trouver les noms complets des stations Bixi).
 * Le numéro d'«id» de ce lieu.
-* La distance à laquelle se trouve ce lieu (indice: c'est le numéro d'«id» qui vous permet de la trouver).
+* La distance à laquelle se trouve ce lieu (indice: c'est le numéro d'«id» qui vous permet de la trouver et ici encore, la façon d'y arriver ressemble à ce qu'on a fait avec Bixi).
 
 Vous me remettez dans Moodle votre carnet (**devoir4.ipynb**) ET le fichier CSV qu'il génère (**clicsanté.csv**).
 
