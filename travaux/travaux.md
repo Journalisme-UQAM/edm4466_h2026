@@ -134,6 +134,10 @@ Cet exercice est **facultatif**. Je demeure disponible pour [des questions](mail
 
 Tombée : 23h59, le lundi 23 février 2026.
 
+#### Corrigé
+
+[**Carnet détaillé ici**](https://colab.research.google.com/drive/1ItTlikeXz6_EWjmBZxLRJabyQ4gmm6wY?usp=sharing). Je sais que ça pouvait être long!
+
 ### Devoir 4 - À venir (10 points) <a href="#site" id="site"></a>
 
 Description à venir
