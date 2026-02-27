@@ -138,32 +138,19 @@ Tombée : 23h59, le lundi 23 février 2026.
 
 [**Carnet détaillé ici**](https://colab.research.google.com/drive/1ItTlikeXz6_EWjmBZxLRJabyQ4gmm6wY?usp=sharing). Je sais que ça pouvait être long!
 
-### Devoir 4 - Clic Santé (10 points) <a href="#site" id="site"></a>
+### Devoir 4 - ~~Clic Santé~~ Design de projet avec IAG (10 points) <a href="#site" id="site"></a>
 
-Allez sur [Clic Santé](https://portal3.clicsante.ca/).
+Racontez-moi, en 5 à 15 pages, vos démarches de consultation de différents outils d'IA générative pour définir un projet final dans ce cours. Rappelez-vous : vous pouvez faire un **reportage** ou un **outil**.
 
-Recherchez :
+Faites-le avec **deux** idées de projet différentes.
 
-* Un [service](https://portal3.clicsante.ca/services) de votre choix.
-* Dans un code postal de votre choix.
-* Cochez l'option « Avec ou sans frais ».
+Pour chacune, racontez-moi :
 
-Dans la page des résultats, trouvez l'API non documentée de Clic Santé (indice, elle s'appelle _`availabilitiesByGeolocalisation`_).
+* Comment l'idée vous est venue? (mettez un lien vers un reportage, s'il y a lieu).
+* Quelle est la question à laquelle vous aimeriez répondre avec ce projet ou quel serait votre objectif?
+*
 
-Écrivez un script qui se connecte à cette API et qui génère un **fichier CSV** avec les informations suivantes **pour chacun des&#x20;**_**« services »**_**&#x20;offerts** sur la première page des résultats (attention, il y a 45 _« places »_ où des services sont proposés, mais il peut y avoir plus d'un _« service »_ par _« place »_) :
-
-* Le nom français du lieu où le service est offert.
-* L'adresse « formatée » de ce lieu.
-* La longitude et la latitude de ce lieu.
-* Quel est le prix du service offert?
-* Combien de disponibilités y a-t-il pour ce service dans les 7 prochains jours (variable `t07`)?
-* Combien de disponibilités y a-t-il pour ce service dans les jours suivants (variable `ta7`)?
-* Le numéro d'établissement de ce lieu.
-* Le type de cet établissement (clinique privée, pharmacie ou établissement de santé \[public]?) (indice: c'est le numéro d'établissement qui vous permet de le trouver et la façon d'y arriver ressemble à ce qu'on a fait pour trouver les noms complets des stations Bixi).
-* Le numéro d'«id» de ce lieu.
-* La distance à laquelle se trouve ce lieu (indice: c'est le numéro d'«id» qui vous permet de la trouver et ici encore, la façon d'y arriver ressemble à ce qu'on a fait avec Bixi).
-
-Vous me remettez dans Moodle votre carnet (**devoir4.ipynb**) ET le fichier CSV qu'il génère (**clicsanté.csv**).
+Vous me remettez dans Moodle un fichier PDF.
 
 Tombée : 23h59, le lundi 9 mars 2026. Je demeure disponible pour des sessions d'aide ou répondre à vos questions même durant la semaine de relâche.
 
