@@ -148,7 +148,11 @@ Pour chacune, racontez-moi :
 
 * Comment l'idée vous est venue? (mettez un lien vers un reportage, s'il y a lieu).
 * Quelle est la question à laquelle vous aimeriez répondre avec ce projet ou quel serait votre objectif?
-*
+* Par quelle requête avez-vous commencé? Quel outil avez-vous utilisé (ChatGPT, Claude, etc.)? (suggestions : j'étudie le journalisme; j'ai un projet final à réaliser dans un cours de journalisme computationnel et dont voici les paramètres...; je m'intéresse à tel sujet...)
+* Ne me recopiez pas les réponses entières générées par l'outil; citez les passages qui vous semblent les plus pertinents et commentez (je n'avais pas pensé à cela, je m'attendais plutôt à ceci, ...)
+* Comme dans une entrevue, prenez une partie des réponses de l'outil d'IA générative pour poser de nouvelles questions afin d'approfondir, de vérifier, d'explorer (comment parvenir à faire telle chose? où trouver des données sur tel sujet ou permettant à répondre à telle question?)
+
+Faites, en somme, un récit de votre « conversation ». Insérez des liens pertinents et, s'il y a lieu, des illustrations ou des captures d'écran. N'hésitez pas à [**me contacter**](mailto:roy.jean-hugues@uqam.ca) si vous avez des questions.
 
 Vous me remettez dans Moodle un fichier PDF.
 
