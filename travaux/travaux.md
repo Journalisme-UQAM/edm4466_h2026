@@ -140,23 +140,43 @@ Tombée : 23h59, le lundi 23 février 2026.
 
 ### Devoir 4 - ~~Clic Santé~~ Design de projet avec IAG (10 points) <a href="#site" id="site"></a>
 
-Racontez-moi, en 5 à 15 pages, vos démarches de consultation de différents outils d'IA générative pour définir un projet final dans ce cours. Rappelez-vous : vous pouvez faire un **reportage** ou un **outil**.
+#### Objectif
 
-Faites-le avec **deux** idées de projet différentes.
+Documenter comment vous utilisez **au moins deux outils d’IA générative** pour transformer **deux idées** de projet final (idée A et idée B) en propositions **claires, faisables et vérifiables**. Rappelez-vous : vous pouvez faire [un **reportage** ou un **outil**](travaux.md#projet-final-25-points).
 
-Pour chacune, racontez-moi :
+#### Travail à remettre (\~10 pages \[entre 8 et 15])
 
-* Comment l'idée vous est venue? (mettez un lien vers un reportage, s'il y a lieu).
-* Quelle est la question à laquelle vous aimeriez répondre avec ce projet ou quel serait votre objectif?
+Pour **chaque** idée, incluez les sections suivantes :
+
+1. **Origine**
+
+* Comment l’idée vous est-elle venue (1-2 phrases)?
+* Incluez au moins un lien vers un reportage / une publication / un exemple.
+
+2. **Destination**
+
+* Formulez la **question principale** à laquelle vous souhaitez répondre ou l'**objectif** que vous souhaiteriez atteindre.
+
+3. **Récits de vos « conversations » (pour chaque idée)**
+
 * Par quelle requête avez-vous commencé? Quel outil avez-vous utilisé (ChatGPT, Claude, etc.)? (suggestions : j'étudie le journalisme; j'ai un projet final à réaliser dans un cours de journalisme computationnel et dont voici les paramètres...; je m'intéresse à tel sujet...)
 * Ne me recopiez pas les réponses entières générées par l'outil; citez les passages qui vous semblent les plus pertinents et commentez (je n'avais pas pensé à cela, je m'attendais plutôt à ceci, ...)
 * Comme dans une entrevue, prenez une partie des réponses de l'outil d'IA générative pour poser de nouvelles questions afin d'approfondir, de vérifier, d'explorer (comment parvenir à faire telle chose? où trouver des données sur tel sujet ou permettant à répondre à telle question?)
+* Montrez **au moins 3 itérations (question-réponse)** par idée.
+* Concluez chaque récit en décrivant, même brièvement :
+  * Quelles **données** vous pourriez utiliser (sources, formats, accès, limites) avec liens si possible
+  * Quels **risques** (données inexistantes, biais, accès payant, moissonnage interdit, etc.)
+  * Au moins **2 vérifications concrètes** que vous avez faites (ex.: repérer une base de données, tester une requête, valider une affirmation par une source fiable) avec des liens si possible.
 
-Faites, en somme, un récit de votre « conversation ». Insérez des liens pertinents et, s'il y a lieu, des illustrations ou des captures d'écran. N'hésitez pas à [**me contacter**](mailto:roy.jean-hugues@uqam.ca) si vous avez des questions.
+#### Barème
 
-Vous me remettez dans Moodle un fichier PDF.
+* **Clarté, structure, respect des exigences** (2 idées, PDF, sections, lisibilité) • 2 points
+* **Qualité du cheminement** (itération, précision progressive, décisions justifiées, illustrations s'il y a lieu) • 3 points par idée
+* **Qualité de la vérification / esprit critique** (données, sources, limites, identification d'éventuels biais/hallucinations/utilisation énergétique) • 2 points&#x20;
 
-Tombée : 23h59, le lundi 9 mars 2026. Je demeure disponible pour des sessions d'aide ou répondre à vos questions même durant la semaine de relâche.
+Vous me remettez dans Moodle un fichier **PDF**.
+
+Tombée : 23h59, le lundi 9 mars 2026. Je demeure disponible pour des sessions d'aide ou [**répondre à vos questions**](mailto:roy.jean-hugues@uqam.ca) même durant la semaine de relâche.
 
 ### Exercice en classe (10 points) <a href="#moisson" id="moisson"></a>
 
