@@ -142,7 +142,7 @@ Tombée : 23h59, le lundi 23 février 2026.
 
 #### Objectif
 
-Documenter comment vous utilisez **au moins deux outils d’IA générative** pour transformer **deux idées** de projet final (idée A et idée B) en propositions **claires, faisables et vérifiables**. Rappelez-vous : vous pouvez faire [un **reportage** ou un **outil**](travaux.md#projet-final-25-points).
+Documenter comment vous utilisez des **outils d’IA générative** pour transformer **deux idées** de projet final (**idée A** et **idée B**) en propositions claires, faisables et vérifiables. Rappelez-vous : vous pouvez faire [un **reportage** ou un **outil**](travaux.md#projet-final-25-points).
 
 #### Travail à remettre (\~10 pages \[entre 8 et 15])
 
@@ -172,7 +172,7 @@ Pour **chaque** idée, incluez les sections suivantes :
 
 * **Clarté, structure, respect des exigences** (2 idées, PDF, sections, lisibilité) • 2 points
 * **Qualité du cheminement** (itération, précision progressive, décisions justifiées, illustrations s'il y a lieu) • 3 points par idée
-* **Qualité de la vérification / esprit critique** (données, sources, limites, identification d'éventuels biais/hallucinations/utilisation énergétique) • 2 points&#x20;
+* **Qualité de la vérification / esprit critique** (données; sources; limites; identification d'éventuels biais/hallucinations/obstacles; ça peut même aller jusqu'à une critique du contenu du cours et/ou de l'utilisation énergétique qu'il implique) • 2 points&#x20;
 
 Vous me remettez dans Moodle un fichier **PDF**.
 
