@@ -14,8 +14,8 @@ Liens directs vers les devoirs:
 * [Devoir 2](travaux.md#devoir-2) (python 1 - rudiments)
 * [Devoir 3](travaux.md#devoir-2) (python 2 - moisson)
 * [Exercice boni](travaux.md#exercice-boni-lnh-5-points) (🏒)
-* [Devoir 4](travaux.md#site)
-* [Exercice en classe](travaux.md#moisson)
+* [Devoir 4](travaux.md#site) (desing avec IAG)
+* [Exercice en classe](travaux.md#moisson) (Projet Gutenberg)
 * [Votre proposition](travaux.md#devoir-3)
 * [Tutorat](travaux.md#tutorat-10-points)
 * [Travail final](travaux.md#projet-final-25-points) et [_making-of_](travaux.md#making-of-10-points)
@@ -179,6 +179,10 @@ Vous me remettez dans Moodle un fichier **PDF**.
 Tombée : 23h59, le lundi 9 mars 2026. Je demeure disponible pour des sessions d'aide ou [**répondre à vos questions**](mailto:roy.jean-hugues@uqam.ca) même durant la semaine de relâche.
 
 ### Exercice en classe (10 points) <a href="#moisson" id="moisson"></a>
+
+[Choisissez le texte d'un livre associé à votre nom](https://docs.google.com/spreadsheets/d/1Rm7CPY3rtcBWorjUQqIlynCLViNKQ39oubAd6HHIqLM/edit?usp=sharing) parmi les 4000 livres disponibles dans le Projet Gutenberg.
+
+Réalisez un carnet dont les consignes dépendront de la matière qui aura été couverte dans le cours 10 sur le traitement automatique du langage naturel.
 
 Remettez dans Moodle votre carnet réalisé en classe.
 
