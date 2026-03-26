@@ -182,7 +182,7 @@ Tombée : 23h59, le lundi 9 mars 2026. Je demeure disponible pour des sessions d
 
 [Choisissez le texte d'un livre associé à votre nom](https://docs.google.com/spreadsheets/d/1Rm7CPY3rtcBWorjUQqIlynCLViNKQ39oubAd6HHIqLM/edit?usp=sharing) parmi les 4000 livres disponibles dans le Projet Gutenberg.
 
-Réalisez un carnet qui fera avec le texte de votre livre ce qu'on a fait avec le texte du budget au cours 10 sur le traitement automatique du langage naturel.
+Réalisez un carnet qui fera avec le texte de votre livre ce qu'on a fait avec le texte du budget au cours 10 sur le traitement automatique du langage naturel. Retranchez les cochoncetés qui se trouvent au début et à la fin de votre fichier et qui ne font pas partie du texte du livre que vous avez choisi.
 
 Remettez dans Moodle votre carnet réalisé en classe.
 
